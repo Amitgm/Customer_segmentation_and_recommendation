@@ -17,3 +17,5 @@ Customer Segmentation using K-Means Clustering: Segment customers into distinct 
 Cluster Analysis & Evaluation: Analyze and profile each cluster to develop targeted marketing strategies and assess the quality of the clusters formed.
 
 Recommendation System: Develop a system to recommend best-selling products to customers within the same cluster who haven't purchased those products, aiming to enhance sales and marketing effectiveness.
+
+
