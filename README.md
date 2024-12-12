@@ -30,10 +30,15 @@ Recommendation System: Develop a system to recommend best-selling products to cu
 
 4 - Execution: Run all cells in the notebook to witness the results and insights.
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-|------------------|-----------------|-----------------|
-| Row 1 Col 1     | Row 1 Col 2     | Row 1 Col 3     |
-| Row 2 Col 1     | Row 2 Col 2     | Row 2 Col 3     |
-
+| Variable     | Description                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| InvoiceNo    | Code representing each unique transaction. If this code starts with the letter 'c', it's cancellation. |
+| StockCode    | Code uniquely assigned to each distinct product.                           |
+| Description  | Description of each product.                                               |
+| Quantity     | The number of units of a product in a transaction.                         |
+| InvoiceDate  | The date and time of the transaction.                                      |
+| UnitPrice    | The unit price of the product in sterling.                                 |
+| CustomerID   | Identifier uniquely assigned to each customer.                             |
+| Country      | The country of the customer.    
 
 
