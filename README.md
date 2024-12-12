@@ -23,8 +23,11 @@ Recommendation System: Develop a system to recommend best-selling products to cu
 # 🚀 Instructions for Local Execution
 
 1 - Clone this Repository: Begin by cloning this repository to your local setup.
+
 2 - Open the Notebook: Access the customer_segmentation_and_recommendation in Jupyter.
+
 3 - Install Dependencies: Ensure all necessary Python libraries are installed for seamless execution.
+
 4 - Execution: Run all cells in the notebook to witness the results and insights.
 
 
