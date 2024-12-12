@@ -30,9 +30,10 @@ Recommendation System: Develop a system to recommend best-selling products to cu
 
 4 - Execution: Run all cells in the notebook to witness the results and insights.
 
-| Column 1 Header | Column 2 Header
-| Row 1 Col 1     | Row 1 Col 2     
-| Row 2 Col 1     | Row 2 Col 2 
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|------------------|-----------------|-----------------|
+| Row 1 Col 1     | Row 1 Col 2     | Row 1 Col 3     |
+| Row 2 Col 1     | Row 2 Col 2     | Row 2 Col 3     |
 
 
 
